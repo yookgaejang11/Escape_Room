@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Object
+  - Trap
+  - CheckPoint
+  - Die_Point
+  - Clear_Point
   layers:
   - Default
   - TransparentFX
@@ -11,14 +16,14 @@ TagManager:
   - Npc
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Key
+  - Sign
+  - Exit
+  - Stone
+  - Car
+  - Oak
+  - Ghost
+  - Real_Exit
   - 
   - 
   - 
